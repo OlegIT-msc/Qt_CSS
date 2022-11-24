@@ -1,0 +1,23 @@
+*[cssClass="button-test"] {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    background-color:#00FF00;
+    color: #FF0000;
+    padding-right:6px;
+    padding-left:6px;
+    border-bottom:2px;
+    border-radius:20px;
+}
+
+*[cssClass="label-test"] {
+    background-color:#00F0FF;
+    font-size:16px;
+    color: #FF00FF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+}
